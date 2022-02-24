@@ -1,0 +1,308 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief account of the province of Pennsilvania lately granted by the King, under the great seal of England, to William Penn, and his heirs and assigns.</title>
+            <author>Penn, William, 1644-1718.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54106</idno>
+            <idno type="STC">Wing P1256A</idno>
+            <idno type="STC">ESTC R220390</idno>
+            <idno type="EEBO-CITATION">99831794</idno>
+            <idno type="PROQUEST">99831794</idno>
+            <idno type="VID">36261</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54106)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36261)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2052:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief account of the province of Pennsilvania lately granted by the King, under the great seal of England, to William Penn, and his heirs and assigns.</title>
+                  <author>Penn, William, 1644-1718.</author>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II). Proclamations. 1681-04-02.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Benjamin Clark in George-Yard in Lombard-street, bookseller,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXII. [1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: William Penn.</note>
+                  <note>Includes: The King's declaration to the inhabitants and planters of the province of Pennsylvania.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pennsylvania --  History --  Colonial period, ca. 1600-1775 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36261:1" rendition="simple:additions"/>
+            <p>A BRIEF ACCOUNT OF THE PROVINCE OF <hi>Pennſilvania</hi> Lately Granted by the KING, Under the GREAT <hi>Seal of England,</hi> TO WILLIAM PENN, AND HIS HEIRS and ASSIGNS.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Benjamin Clark</hi> in <hi>George-Yard</hi> in <hi>Lombard<g ref="char:EOLhyphen"/>ſtreet, Bookſeller,</hi> MDCLXXXII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:36261:2"/>
+            <pb n="1" facs="tcp:36261:2"/>
+            <head>A brief Account of the Province of PENN<g ref="char:EOLhyphen"/>SILVANIA, lately Granted by the KING, under the Great Seal of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> to <hi>William Penn</hi> and his Heirs and Aſſigns.</head>
+            <p>SInce (by the good Providence of <hi>God,</hi> and the Fa<g ref="char:EOLhyphen"/>vour of the <hi>King</hi>) a Country in <hi>America</hi> is fallen to my Lot, I thought it not leſs my Duty, than my Honeſt Intereſt, to give ſome publick notice of it to the World, that thoſe of our own and other Nati<g ref="char:EOLhyphen"/>ons, that are inclin'd to Tranſport themſelves or Families beyond the Seas, may find another Country added to their Choice; that if they ſhall happen to like the Place, Condi<g ref="char:EOLhyphen"/>tions, and Government, (ſo far as the preſent Infancy of things will allow us any proſpect) they may, if they pleaſe, fix with me in the Province hereafter deſcribed.</p>
+            <div n="1" type="part">
+               <head>I. <hi>The</hi> KING<hi>'S Title to this Country before he granted it.</hi>
+               </head>
+               <p>It is the <hi>Jus Gentium,</hi> or Law of Nations, that whatever Waſte, or unculted Country, is the Diſcovery of any Prince, it is the right of that Prince that was at the Charge of the Diſ<g ref="char:EOLhyphen"/>covery: Now this <hi>Province</hi> is a Member of that part of <hi>Ame<g ref="char:EOLhyphen"/>rica,</hi> which the King of <hi>Englands</hi> Anceſtors have been at the Charge of Diſcovering, and which they and he have taken great care to preſerve and Improve.</p>
+            </div>
+            <div n="2" type="part">
+               <pb n="2" facs="tcp:36261:3"/>
+               <head>II. <hi>William Penn</hi>'s Title from the KING.</head>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="abstract">
+                           <head>An Abſtract of the PATENT GRANTED BY THE KING TO <hi>VVilliam Penn, &amp;c.</hi> The Fourth of <hi>March,</hi> 1681.</head>
+                           <p n="1">
+                              <hi>I.</hi> VVE do Give and Grant for Vs, Our Heirs and Succeſſours (upon divers conſidera<g ref="char:EOLhyphen"/>tions) to <hi>William Penn</hi> his Heirs and Aſ<g ref="char:EOLhyphen"/>ſigns for ever all that Tract of Land in <hi>America</hi> with all Iſlands thereunto belonging That is to ſay from the beginning of the fortieth Degree of <hi>North-Latitude</hi> unto the forty third Degree of <hi>North-Latitude</hi> whoſe Eaſtern bounds from Twelve <hi>Engliſh</hi> miles above <hi>New-Caſtle</hi> (alias <hi>Delaware Town</hi>) runs all along upon the ſide of <hi>Delaware</hi> River.</p>
+                           <p n="2">
+                              <pb n="3" facs="tcp:36261:3"/>
+                              <hi>II.</hi> Free and underſturb'd uſe and paſſage into and out of all Harbours Bays Waters Rivers Iſles and Inlets belonging to or leading to the ſame Together with the <hi>Soyle</hi> Fields Woods Vnderwoods Moun<g ref="char:EOLhyphen"/>tains Hills Fenns Iſles Lakes Rivers Waters Rivulets Bays and Inlets Scituate in or belonging unto the Limits and Bounds afore ſaid Together with all ſorts of Fiſh Mines Mettals, <hi>&amp;c.</hi> To have and to hold to the only behoof of the ſaid <hi>William Penn</hi> his Heirs and Aſſigns for ever To be holden of Vs as of our Caſtle of <hi>Windſor</hi> in free and common Soccage paying only two <hi>Beaver</hi> Skins yearly.</p>
+                           <p n="3">
+                              <hi>III.</hi> And of our further Grace we have thought it fit to erect and we do hereby erect the aforeſaid Country and Iſlands into a Province and <hi>Seigniory</hi> and do call it <hi>Pennſilvania</hi> and ſo from henceforth we will have it call'd.</p>
+                           <p n="4">
+                              <hi>IV.</hi> That repoſing ſpecial confidence in the Wiſ<g ref="char:EOLhyphen"/>dom and Iuſtice of the ſaid <hi>William Penn</hi> we do grant to him and his Heirs and their Deputies for the good and happy Government thereof to Ordain and Enact and under his and their Seals to publiſh any Laws whatever for the publick uſes of the ſaid Province by and with the Advice and Approbation of the Free-holders of the ſaid Country or their Delegates ſo as they be not repugnant to the Law of this Realm and to the Faith and Allegiance due unto us by the legal Government thereof; and that he and they may call the ſaid Free-holders or Deligates in ſuch manner as to him and them ſeemeth beſt.</p>
+                           <p n="5">
+                              <hi>V.</hi> Full power to the ſaid <hi>William Penn, &amp;c.</hi> to ap<g ref="char:EOLhyphen"/>point Iudges Leiutenants Iuſtices Magiſtrates a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>d Offcers for what cauſes ſoever and with what Power and in ſuch Form as to him ſeems convenient alſo to be able to Pardon and Aboliſh Crimes and Offences and to do all and every other thing that to the compleat Eſtabliſhment of Iuſtice unto Courts and Tribunals forms of Iudicature and manner of proceedings do belong and our pleaſure is and ſo we enjoyn and require that ſuch Laws and Proceedings ſhall be moſt abſolute and
+<pb n="4" facs="tcp:36261:4"/>available in Law and that all the Liege people of us our Heirs and Succeſſors inviolably keep the ſame in thoſe parts ſaving to us final Appeals.</p>
+                           <p n="6">
+                              <hi>VI.</hi> That the Laws for regulating property as well for the deſcent of Lands as enjoyment of Goods and Chattels and likewiſe as to Felonies ſhall be the ſame there as here in <hi>England</hi> until they ſhall be altered by the ſaid <hi>William Penn</hi> his Heirs or Aſſigns and by the Free<g ref="char:EOLhyphen"/>men of the ſaid Province or their Delegates or Depu<g ref="char:EOLhyphen"/>ties or the greater part of them.</p>
+                           <p n="7">
+                              <hi>VII.</hi> Furthermore that this new Colony may the more happily encreaſe by the multitude of People reſort<g ref="char:EOLhyphen"/>ing thither therefore we for us our Heirs and Succeſ<g ref="char:EOLhyphen"/>ſors do hereby grant Licenſe to all the Leige People preſent and future of us, <hi>&amp;c.</hi> (excepting ſuch as ſhall be ſpecially forbidden) to Tranſport themſelves and Fa<g ref="char:EOLhyphen"/>milies into the ſaid Country there to Inhabit and Plant for the publick and their private Good.</p>
+                           <p n="8">
+                              <hi>VIII.</hi> Liberty to Tranſport what Goods or Commo<g ref="char:EOLhyphen"/>dities are not forbidden paying here the Legal Cuſtoms due to us, <hi>&amp;c.</hi>
+                           </p>
+                           <p n="9">
+                              <hi>IX.</hi> Power to divide the Country into Counties Hundreds and Towns to Incorporate Towns into Bur<g ref="char:EOLhyphen"/>roughs and Burroughs into Cities to make Fairs and Markets with convenient priviledges according to the merit of the Inhabitants or the fitneſs of the place And to do all other thing or things touching the pre<g ref="char:EOLhyphen"/>miſes which to the ſaid <hi>William Penn</hi> his Heirs or Aſ<g ref="char:EOLhyphen"/>ſigns ſhall ſeem meet and requiſite albeit they be ſuch as of their own nature might otherwiſe require a more ſpecial Commandment and warrant than in theſe pre<g ref="char:EOLhyphen"/>ſents is expreſſed.</p>
+                           <p n="10">
+                              <hi>X.</hi> Liberty to Import the Growth or Manufactures of that Province into <hi>England</hi> paying here the Legal duty.</p>
+                           <p n="11">
+                              <hi>XI.</hi> Power to Erect Ports Harbours Creeks Ha<g ref="char:EOLhyphen"/>vens Keys and other places for Merchandizes with ſuch Juriſdiction and priviledges as to the ſaid <hi>William Penn, &amp;c.</hi> ſhall ſeem expedient.</p>
+                           <p n="7">
+                              <pb n="5" facs="tcp:36261:4"/>
+                              <hi>XII.</hi> Not to break the Acts of Navigation neither Go<g ref="char:EOLhyphen"/>vernour nor Inhabitants upon the penalties contained in the ſaid Acts.</p>
+                           <p n="8">
+                              <hi>XIII.</hi> Not to be in League with any Prince or Coun<g ref="char:EOLhyphen"/>try that is in War againſt us our Heirs and Succeſ<g ref="char:EOLhyphen"/>ſors.</p>
+                           <p n="14">XIV. Power of ſafety and defence in ſuch way and manner as to the ſaid <hi>William Penn, &amp;c.</hi> ſeems meet.</p>
+                           <p n="15">
+                              <hi>XV.</hi> Full power to Aſſign Alien Grant Demiſe or Enfeoff of the premiſes ſo many and ſuch parts and parcels to thoſe that are willing to purchaſe the ſame as the ſaid <hi>William Penn</hi> thinks fit <hi>To have and to hold</hi> to them the ſaid perſons their Heirs or Suc<g ref="char:EOLhyphen"/>ceſſours in fee Simple or fee Tail or for term of Life or Lives or years to be held of the ſaid <hi>William Penn, &amp;c.</hi> as of the ſaid <hi>Seigniory</hi> of <hi>Windſor</hi> by ſuch <hi>Services</hi> Cuſtoms and Rents as ſhall ſeem fit to the ſaid <hi>William Penn</hi> his Heirs and Aſſigns and not immediately of us our Heirs or Succeſſours and that the ſaid perſons may take the premiſſes or any parcel thereof of the ſaid <hi>William Penn, &amp;c.</hi> and the ſame hold to themſelves their Heirs and Aſſigns the Statute <hi>Quia emptores Terrarum</hi> in any wiſe notwith<g ref="char:EOLhyphen"/>ſtanding.</p>
+                           <p n="16">
+                              <hi>XVI.</hi> We give and grant Licenſe to any of thoſe perſons to whom the ſaid <hi>William Penn, &amp;c.</hi> has granted any Eſtate of Inheritance as aforeſaid with the conſent of the ſaid <hi>William Penn</hi> to Erect any par<g ref="char:EOLhyphen"/>cel of Lands within the ſaid Province into Mannors to hold Courts Baron and view of Franck-pledge, <hi>&amp;c.</hi> by Themſelves or Stewards.</p>
+                           <p n="17">
+                              <hi>XVII.</hi> Power to thoſe perſons to Grant others the ſame Tenures in Fee Simple or otherwiſe to be held of the ſaid Mannors reſpectively and upon all further Alienations the Land to be held of the Man<g ref="char:EOLhyphen"/>nor that it held of before the Alienation.</p>
+                           <p n="18">
+                              <pb n="6" facs="tcp:36261:5"/>
+                              <hi>XVIII.</hi> We do Covenant and Grant to and with the ſaid <hi>William Penn</hi> his Heirs and Asſigns that we will not ſet or make any Cuſton or other Taxation upon the In<g ref="char:EOLhyphen"/>habitants of the ſaid Province upon Lands Houſes Goods Chattels or Merchandizes except with the con<g ref="char:EOLhyphen"/>ſent of the Inhabitants and Governour.</p>
+                           <p n="19">
+                              <hi>XIX.</hi> Power to the Biſhop of <hi>London</hi> to ſend over a Miniſter, if deſired by any Twenty Perſons Inhabi<g ref="char:EOLhyphen"/>ting in that Province.</p>
+                           <p n="20">
+                              <hi>XX.</hi> A charge that no Officers nor Miniſters of us our Heirs and Succeſſors do preſume at any time to attempt any thing to the contrary of the premiſes or in any ſort withſtand the ſame but that they be at all times aiding to the ſaid <hi>William Penn</hi> and his Heirs and to the Inhabitants and Merchants their Factors and Aſſigns in the full uſe and benefit of this our Char<g ref="char:EOLhyphen"/>ter.</p>
+                           <p n="21">
+                              <hi>XXI.</hi> And if any doubts or queſtions ſhall hereafter ariſe about the true ſenſe or meaning of any Word Clauſe or Sentence contained in this our Charter We will Ordain and Command that at all times and in all things ſuch Interpretation be made thereof and allow<g ref="char:EOLhyphen"/>ed in any of our Courts whatſoever as ſhall be adjudged moſt advantageous and favourable unto the ſaid <hi>Wil<g ref="char:EOLhyphen"/>liam Penn</hi> his Heirs and Aſſigns ſo as it be not againſt the Faith and Allegiance due to Vs our Heirs and Succeſſors.</p>
+                           <closer>
+                              <signed>
+                                 <hi>In Witneſs whereof we have cauſed our Letters to be made Patents. Witneſs our ſelf at <hi>Weſtminiſter,</hi> &amp;c.</hi>
+                              </signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <pb n="7" facs="tcp:36261:5"/>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="declaration">
+                           <head>The KING'S Declaration to the Inhabi<g ref="char:EOLhyphen"/>tants and Planters of the Province of PENNSILVANIA.</head>
+                           <opener>
+                              <salute>CHAREES R.</salute>
+                           </opener>
+                           <p>VVHereas His Majeſty in conſideration of the great merit and faithful ſervices of Sir <hi>William Penn</hi> deceaſed, and for divers other good Cauſes Him thereunto moving, hath been graciouſly pleaſed by Letters Patents bearing Date the Fourth day of <hi>March</hi> laſt paſt, to Give and Grant unto <hi>William Penn</hi> Eſquire, Son and Heir of the ſaid Sir <hi>William Penn,</hi> all that Tract of Land in <hi>America,</hi> called by the Name of <hi>Pennſilvania,</hi> as the ſame is Bounded on the Eaſt by <hi>Delaware</hi> River, from Twelve miles diſtance Northwards of <hi>New-Caſtle</hi> Town, unto the three and fortieth Degree of Northern Latitude, if the ſaid River doth extend ſo far Northwards, and if the ſaid River ſhall not extend ſo far Northward, then by the ſaid River ſo far as it doth extend: And from the Head of the ſaid River, the Eaſtern Bounds to be de<g ref="char:EOLhyphen"/>termined by a <hi>Meridian</hi> Line to be drawn from the Head of the ſaid River, unto the ſaid Three and fortieth De<g ref="char:EOLhyphen"/>gree, the ſaid Province to extend Weſtward Five De<g ref="char:EOLhyphen"/>grees in Longitude, to be Computed from the ſaid Ea<g ref="char:EOLhyphen"/>ſtern Bounds, and to be bounded on the North, by the Beginning of the Three and fortieth Degree of Nor<g ref="char:EOLhyphen"/>thern Latitude, and on the South, by a Circle drawn at Twelve Miles diſtance from <hi>New-Caſtle</hi> Northwards, and Weſtwards unto the beginning of the fortieth De<g ref="char:EOLhyphen"/>gree
+<pb n="8" facs="tcp:36261:6"/>of Northern Latitude; and then by a ſtraight Line Weſtwards to the limit of Longitude above men<g ref="char:EOLhyphen"/>tioned, together with all powers, Preheminences, and Iuriſdictions neceſſary for the Government of the ſaid Province, as by the ſaid Letters Parents, Refe<g ref="char:EOLhyphen"/>rence being thereunto had, doth more at large ap<g ref="char:EOLhyphen"/>pear.</p>
+                           <p>His Maieſty doth therefore hereby publiſh and De<g ref="char:EOLhyphen"/>clare his Royal Will and Pleaſure, That all perſons Setled or Inhabiting within the Limits of the ſaid Province, do yield all Due Obedience to the ſaid <hi>Wil<g ref="char:EOLhyphen"/>liam Penn,</hi> His Heirs and Aſſigns, as abſolute Pro<g ref="char:EOLhyphen"/>prietaries and Governours thereof, as alſo to the De<g ref="char:EOLhyphen"/>puty or Deputies, Agents or Lieutenants, Lawfully Commiſſionated by him or them, according to the Powers and Authorities Granted by the ſaid Letters Patents: Wherewith his Majeſty Expects and Re<g ref="char:EOLhyphen"/>quites a ready Complyance from all perſons whom it may concern, as they tender his Majeſties Diſplea<g ref="char:EOLhyphen"/>ſure.</p>
+                           <closer>
+                              <dateline>
+                                 <hi>Given at the Court at <hi>White-Hall</hi>
+                                 </hi> 
+                                 <date>
+                                    <hi>the Se<g ref="char:EOLhyphen"/>cond day of <hi>April,</hi> 1681. In the Three and thirrieth year of Our Reign.</hi>
+                                 </date>
+                              </dateline>
+                              <signed>
+                                 <hi>By His Majeſties Command,</hi> Conway,</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </div>
+            <div n="3" type="part">
+               <pb n="9" facs="tcp:36261:6"/>
+               <head>III. <hi>The Reaſon of the Grant.</hi>
+               </head>
+               <p>The reaſon and ground of this Grant from the <hi>King,</hi> to Him and his Heirs, <hi>&amp;c.</hi> Was his Petition to the <hi>King,</hi> in which he ſet forth, <hi>His Fathers Services, his own Suffer<g ref="char:EOLhyphen"/>ings and Loſſes, in relation to his Fathers Eſtate;</hi> And laſt<g ref="char:EOLhyphen"/>ly, <hi>His long and coſtly Attendance without ſucceſs:</hi> In right, and conſideration of which, the <hi>King</hi> was graciouſly pleaſ<g ref="char:EOLhyphen"/>ed to make the aforeſaid Grant; to which Title, the ſaid <hi>William Penn</hi> adds that of the <hi>Natives</hi> by purchaſe from them.</p>
+            </div>
+            <div n="4" type="part">
+               <head>IV. <hi>Of the Country, and its Produce.</hi>
+               </head>
+               <p>It lies 600. Miles <hi>South</hi> of the <hi>Latitude</hi> of <hi>England;</hi> and as it is of the ſame ſide of the Line, ſo it is about the ſame de<g ref="char:EOLhyphen"/>gree with <hi>Mompellier</hi> in <hi>France,</hi> or <hi>Naples</hi> in <hi>Italy:</hi> The Air is generally clear and ſweet, the <hi>Summer</hi> is longer and Hot<g ref="char:EOLhyphen"/>ter; and <hi>Winter</hi> ſhorter, and ſometimes Colder than in <hi>England:</hi> The Soil is ſaid to be as good as any in thoſe parts. It commonly produceth <hi>Oak, Cedar, Mulbery, Cheſnut, Walnut, Firr, Cyprus, Aſh, Beech, Popaler, Saxafras, Me<g ref="char:EOLhyphen"/>daler, Plumbs, Grapes, Peaches, Strawberries, Huckleberries, Cranberries, Hopps,</hi> &amp;c. <hi>Engliſh</hi> Fruit takes kindly, and pro<g ref="char:EOLhyphen"/>duceth ſuddainly and plentifully: The Woods are furniſh<g ref="char:EOLhyphen"/>ed with Store of Wild Fowl, as <hi>Turkeys, Pheaſants, Heath Cocks, Patridges, Pidgeons,</hi> &amp;c. The Earth well Watered with <hi>Springs</hi> and <hi>Rivers,</hi> and the Rivers ſtored with Fiſh, as <hi>Sturgions, Sheepſheads, Drums, Cat-fiſh, Eeles,</hi> and abun<g ref="char:EOLhyphen"/>dance more: With Fowl, as <hi>Swans, Gray and White Geeſe, Duck, Mallard,</hi> &amp;c. The Corn of the Country uſed by the <hi>Indians,</hi> produceth four hundred fold, is Good and Hearty, both in Milk, and made into Bread; the price two Shillings ſix pence the Buſhel: There is alſo good <hi>Engliſh</hi> Corn, as <hi>Wheat, Barly, Rye, and Oates; Wheat</hi> under four Shillings the Buſhel, <hi>Barly and Rye,</hi> under three Shillings the Buſhel, <hi>Oates</hi> about two Shillings the Buſhel: There are alſo very good <hi>Peaſe, and Beans</hi> of ſeveral ſorts. The <hi>Beef</hi> is good, but <hi>Pork</hi> is very Sweet: The <hi>Beef</hi> at three pence, the <hi>Pork</hi> at
+<pb n="10" facs="tcp:36261:7"/>two pence half-penny the pound; <hi>Butter</hi> at ſix pence a pound, <hi>Peaches</hi> to Eat, or make Drink of, at eight pence the Buſhel; a <hi>Cow and Calf</hi> about the Spring of the Year, at five pounds, a pair of <hi>Oxen</hi> at ten pounds, a good <hi>Breed<g ref="char:EOLhyphen"/>ing Sow</hi> at thirty Shillings, a <hi>Young good Breeding Mare,</hi> at eight pounds. But it is to be Noted, that theſe foregoing priſes and ſums, are to be paid <hi>with one half of the Value in</hi> Engliſh <hi>Goods,</hi> at the Rates they are bought at in <hi>England;</hi> for example, four pounds <hi>Engliſh</hi> paies for the <hi>Breeding Mare,</hi> that is Rated at eight pounds, the like with the reſt.</p>
+               <p>The Country alſo abounds with ſeveral ſorts of Wild Creatures, as <hi>Elkes, Deer, Beavers, Racoons, Mincks, Mar<g ref="char:EOLhyphen"/>tins, Wild Catts, Otters,</hi> &amp;c. ſome of which are good Food, and Cheap, as a Fat <hi>Buck</hi> at two Shillings <hi>Engliſh</hi> Goods, others of them conſiderable for their Furs: The way of Traf<g ref="char:EOLhyphen"/>fique, is to ſend to the <hi>Southern</hi> Plantations, <hi>Corn, Beef, Pork, Fiſh, Sider,</hi> and <hi>Pipeſtaves;</hi> the <hi>Skins</hi> and <hi>Furs</hi> for <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> The Conveniency that belongs to the <hi>Province</hi> in point of <hi>Navigation,</hi> is two fold; the one through <hi>Cheſapeak Bay,</hi> and the other <hi>Delaware Bay,</hi> by which Ships of great Bur<g ref="char:EOLhyphen"/>then may come and Trade to the ſaid <hi>Province.</hi>
+               </p>
+            </div>
+            <div n="5" type="part">
+               <head>V. <hi>Of the preſent Inhabitants.</hi>
+               </head>
+               <p>That part of the Country which is at all Inhabited, is at the head of <hi>Cheſapeak Bay,</hi> and on the <hi>Weſt</hi> ſide of <hi>Dela<g ref="char:EOLhyphen"/>ware</hi> River, they are by Nation, <hi>Swedes, Dutch, Engliſh,</hi> who are capable of giving Entertainment to New Commers till they can provide for themſelves.</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI. <hi>What the Country is believed capable of.</hi>
+               </head>
+               <p>It is thought by ſeveral knowing Perſons, that have Travelled thoſe parts of <hi>America,</hi> and have been well ac<g ref="char:EOLhyphen"/>quainted with places in <hi>Europe</hi> of the ſame degree, that there may be <hi>Silk,</hi> and <hi>Wine,</hi> if not <hi>Oyle;</hi> and for <hi>Flax, Hemp, Wood, Madder, Liquoriſh, Pot-aſhes,</hi> and <hi>Iron,</hi> there needs to be no queſtion.</p>
+            </div>
+            <div n="7" type="part">
+               <pb n="11" facs="tcp:36261:7"/>
+               <head>VII. <hi>Of the Government.</hi>
+               </head>
+               <list>
+                  <item>
+                     <hi>1ſt.</hi> The <hi>Governour</hi> and <hi>Free-men,</hi> have the power of <hi>making Laws,</hi> ſo that no Law can be made; nor Money raiſed, <hi>But by the Peoples conſent.</hi>
+                  </item>
+                  <item>
+                     <hi>2ly.</hi> That the <hi>Rights</hi> of the People of <hi>England</hi> are in force there.</item>
+                  <item>
+                     <hi>3ly.</hi> That making no Law againſt <hi>Allegiance,</hi> they may make all Laws requiſite for the Proſperity, and Security of the ſaid <hi>Province.</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="8" type="part">
+               <head>VIII. <hi>Of the Conditions.</hi>
+               </head>
+               <p>The <hi>Province</hi> is caſt at a penny an Acre; But he ſets a<g ref="char:EOLhyphen"/>part ſeveral parcels, which he calls <hi>Shares;</hi> theſe he ſells; ſaving a <hi>Quit-rent,</hi> neceſſary for to ſecure the Title and Tenure: That is, whereas 5000. Acres (which makes a <hi>Share</hi>) comes (at a penny an Acre) to 20. <hi>l.</hi> 16. <hi>s.</hi> 8. <hi>d.</hi> year<g ref="char:EOLhyphen"/>ly, for 100. <hi>l.</hi> down, he ſells off that yearly Rent, 18. <hi>l.</hi> 6. <hi>s.</hi> 8. <hi>d.</hi> and reſerves but 50. <hi>s.</hi> which may be reduc'd as the purchaſer pleaſes, but ſomething muſt be re-ſecur'd for the Security of his <hi>Title:</hi> To which ſhares ſo ſold the <hi>Royalties</hi> proper to Mannors in <hi>England,</hi> as <hi>Hunting, Fowling, Fiſh<g ref="char:EOLhyphen"/>ing,</hi> with all common <hi>Mines, Minerals,</hi> and a Proportion of <hi>Royal Mines</hi> alſo (if found within any ones pro<g ref="char:EOLhyphen"/>priety) is affixed by the general Conditions and Con<g ref="char:EOLhyphen"/>ceſſions.</p>
+               <p>And that ſuch as are not able to purchaſe, yet willing to go, and capable to pay their Paſſage, and their Servants, may not be excluded. It is hereby Declared, that every ſuch Perſon, for himſelf, and Wife, and every Child, <hi>Male</hi> or <hi>Female,</hi> if ſixteen Years of Age, ſhall have right to take up at 1. <hi>d. per</hi> Acre, Fifty Acres by the Head, to him and his Heirs for ever, in lieu of Purchaſing, which ſhall be by the <hi>Surveyor</hi> of the Country ſet out ſo ſoon as the ſaid per<g ref="char:EOLhyphen"/>ſon comes to take it up: And to encourage ſuch Children and Servants to ſerve their <hi>Parents, Maſters,</hi> or <hi>Miſtreſſes,</hi> the full time for which they are Engaged, Diligently and Faithfully. Every ſuch Child or Servant, ſhall have Right
+<pb n="12" facs="tcp:36261:8"/>to take up 50. Acres at but two Shillings <hi>Quit-Rent</hi> for ever, which makes him <hi>Free-holder</hi> of the Country.</p>
+            </div>
+            <div n="9" type="part">
+               <head>IX. <hi>Perſons fitteſt for Plantations.</hi>
+               </head>
+               <p>Thoſe perſons that providence ſeems to have fitted for Plantations, are <hi>Induſtrious-Husbandmen, Laborious Handi<g ref="char:EOLhyphen"/>crafts:</hi> As <hi>Carpenters, Ship-wrights, Rope-makers, Smiths, Brick-makers, Weavers, Taylors, Tanners, Coopers, Mill-wrights, Joyners, Shooe-makers, Turners, Potters, ſuch as dreſs Flax, Hemp, and Wool;</hi> With many others.</p>
+               <p>It ſeems alſo a fit place for <hi>Younger Brothers, and Men of ſmall Eſtates,</hi> who with the Induſtry of a few Servants, may in two or three years time, be plentifully accommodated; Alſo all Ingeni<g ref="char:EOLhyphen"/>ous Men, that are lovers of <hi>Planting, Gardening,</hi> and the like quiet, and uſeful Imployments.</p>
+               <p>A <hi>Plantation</hi> ſeems a fit place for thoſe Ingenious Spirits, that being Low in the World, are much clog'd and op<g ref="char:EOLhyphen"/>preſſed about a Lively-hood; for the means of Subſiſting be<g ref="char:EOLhyphen"/>ing eaſy there, they may have time, and opportunity to Gratify their Inclinations; and thereby improve Science, and help Nurſeries of People.</p>
+               <p>There are another ſort of Perſons, not only fit for, but neceſſary in <hi>Plantations;</hi> and that is, Men of Univerſal Spirits, that have an Eye to the good of Poſterity; and that both underſtand, and delight to promote good <hi>Diſcipline,</hi> and <hi>Juſt Government</hi> among a Plain and Well intending Peo<g ref="char:EOLhyphen"/>ple: Such Perſons may find room in <hi>Colonies,</hi> for their good <hi>Council and Contrivance,</hi> who are ſhut out from being of much uſe or ſervice to great <hi>Nations,</hi> under ſettled Cu<g ref="char:EOLhyphen"/>ſtoms.</p>
+               <p>But they that go, muſt wiſely count the Coſt, <hi>For they muſt either work themſelves, or be able to imploy others.</hi> A <hi>Winter</hi> goes before a <hi>Summer,</hi> and the firſt work will be Countrey Labour, to <hi>clear Ground,</hi> and <hi>raiſe Proviſion;</hi> other things by degrees.</p>
+            </div>
+            <div n="10" type="part">
+               <pb n="13" facs="tcp:36261:8"/>
+               <head>X. <hi>What is fit for the Journey, and ſtrſt to be done there.</hi>
+               </head>
+               <list>
+                  <item>
+                     <hi>1ſt.</hi> The Paſſage for Men and Women is <hi>Five Pounds</hi> a head, for Children under Ten Years, <hi>Fifty Shillings,</hi> Suck<g ref="char:EOLhyphen"/>ing Children <hi>Nothing,</hi> for Freight of Goods, <hi>Forty Shillings per</hi> Tun; but one Cheſt to every Paſſenger Free.</item>
+                  <item>
+                     <hi>2ly.</hi> The Goods fit to take with them for uſe or ſale; are all Utenſils for <hi>Husbandry and Building,</hi> and <hi>Houſe-hold-ſtuff;</hi> Alſo all ſorts of things for <hi>Apparel,</hi> as <hi>Cloath, Stuffes, Linnen,</hi> &amp;c. Wherein all that deſire, may be more particularly In<g ref="char:EOLhyphen"/>formed, by <hi>Philip Ford,</hi> at the <hi>Hood and Scarf</hi> in <hi>Bow-lane</hi> in <hi>London.</hi>
+                  </item>
+                  <item>
+                     <hi>Laſtly,</hi> Being by the Mercy of God ſafely <hi>Arrived;</hi> be it in <hi>October,</hi> Two Men may clear as much Ground for Corn, as uſually brings by the following Harveſt above <hi>Twenty-Quarters;</hi> In the mean time they muſt buy Corn, which they may have as aforeſaid; and if they buy them two <hi>Cows,</hi> and two <hi>Breeding Sows;</hi> with what the <hi>Indians</hi> for a ſmall matter will bring in, of <hi>Fowl, Fiſh, and Veniſon</hi> (which is incredibly Cheap, as a <hi>Fat Buck</hi> for <hi>Two Shillings</hi>) that, and their induſtry will ſupply them. It is Apprehend<g ref="char:EOLhyphen"/>ed, that <hi>Fifteen Pounds</hi> ſtock for each Man (who is firſt well in Cloaths, and provided with fit working Tools for himſelf) will (by the Bleſſing of God) carry him thither, and keep him, till his own <hi>Plantation</hi> will Accommodate him. But all are moſt ſeriouſly cautioned, how they proceed in the diſpoſal of themſelves; 'Tis true, <hi>The Earth is the Lords, and the Full<g ref="char:EOLhyphen"/>neſs thereof;</hi> and it ſeems to many, to be the time wherein thoſe deſolate <hi>Weſtern</hi> parts of the World are to be Planted, and have their Day, as <hi>Aſia, Africa,</hi> and <hi>Europe</hi> have had (of which there are divers Propheſies extant) yet let all have a Reverend regard to <hi>God</hi>'s Providence in their Removal, and be ſerious in it, rather ſeeking the Comforts of retire<g ref="char:EOLhyphen"/>ment, and ſufficiency for Life (like the Bleſſed <hi>Patriarhs</hi> of old) than Eaſe, Fulneſs, and Wealth.</item>
+               </list>
+               <p>And it is further Adviſed that all ſuch as go, would at leaſt get the Permiſſion, if not the good Liking of their near Relations; for that is both Natural, and a Duty incumbent upon all: And by this means will natural Affection be Pre<g ref="char:EOLhyphen"/>ſerved,
+<pb n="14" facs="tcp:36261:9"/>and a Friendly, and Profitable Correſpondence main<g ref="char:EOLhyphen"/>tained between them. In all which, <hi>God Almighty</hi> (who is the Salvation of the Ends of the Earth) Direct us, that His Bleſſings may attend our Honeſt Indeavours; and then the Conſequence of all our Undertakings, will be to the Glory of His Great Name, and the true Happineſs of Us, and our Poſterity. <hi>Amen.</hi>
+               </p>
+            </div>
+            <closer>
+               <signed>William Penn.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>
+               <hi>WHoever are deſirous to be concern'd in this</hi> Province, <hi>they may be treated with, and further Satisfied, at</hi> Philip Fords <hi>in</hi> Bow-lane <hi>in</hi> Cheap-ſide, <hi>and at</hi> Thomas Rudyards, <hi>or</hi> Benjamin Clarks, <hi>in</hi> George-yard <hi>in</hi> Lombardſtreet, <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> where the Mapps of <hi>Pennſilvania</hi> are likewiſe to be ſold: As alſo the Deſcription belonging to the Mapps.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
